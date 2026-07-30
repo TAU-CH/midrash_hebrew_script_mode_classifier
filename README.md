@@ -11,9 +11,8 @@ square or non-square script. The interface also provides a heatmap evidence over
 
 1. Open the notebook in Google Colab.
 2. Run the single startup cell.
-3. Open the generated Gradio interface.
-4. Upload a Hebrew manuscript image.
-5. Prediction and attention visualization begin automatically.
+3. Upload a Hebrew manuscript image.
+4. Prediction and attention visualization begin automatically.
 
 ## Output classes
 
